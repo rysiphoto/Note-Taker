@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
-app.use("/routes", apiroutes);
-app.use("/routes", htmlroutes);
+app.use("/api", apiroutes);
+app.use("/", htmlroutes);
 
 app.listen(PORT, () => console.log(PORT));
