@@ -24,7 +24,10 @@
 ### **Test Run Commands**
 ##### node server in terminal or bash to launch the server. Then open your web browser and go to localhost:3000 in the address bar.
 ---
-### **Questions**
+### **Image**
+<img src="notetaker.png">
+
+
 ##### 
 ---
 ### **Author Contact Information:**
