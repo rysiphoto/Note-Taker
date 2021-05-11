@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3ac91f54d0661844b2024a573aac176c819297fa
 ## Table of Contents
 ##### 1. [Project Description](#Project-Description)
 ##### 2. [GitHub Address](#GitHub-Address)
@@ -25,7 +28,10 @@
 ### **Test Run Commands**
 ##### node server in terminal or bash to launch the server. Then open your web browser and go to localhost:3000 in the address bar.
 ---
-### **Questions**
+### **Image**
+<img src="notetaker.png">
+
+
 ##### 
 ---
 ### **Author Contact Information:**
